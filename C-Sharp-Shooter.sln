@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C-Sharp-Shooter", "C-Sharp-Shooter.csproj", "{410977E9-FBEC-4820-8419-9B77C6FDA80A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410977E9-FBEC-4820-8419-9B77C6FDA80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410977E9-FBEC-4820-8419-9B77C6FDA80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410977E9-FBEC-4820-8419-9B77C6FDA80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410977E9-FBEC-4820-8419-9B77C6FDA80A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F19EF7F5-7C86-416B-8D0E-0889928D5C7E}
+	EndGlobalSection
+EndGlobal

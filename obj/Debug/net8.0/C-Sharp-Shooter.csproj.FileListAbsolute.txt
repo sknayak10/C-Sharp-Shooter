@@ -1,0 +1,14 @@
+/Users/admin/Projects/C-Sharp-Shooter/bin/Debug/net8.0/C-Sharp-Shooter
+/Users/admin/Projects/C-Sharp-Shooter/bin/Debug/net8.0/C-Sharp-Shooter.deps.json
+/Users/admin/Projects/C-Sharp-Shooter/bin/Debug/net8.0/C-Sharp-Shooter.runtimeconfig.json
+/Users/admin/Projects/C-Sharp-Shooter/bin/Debug/net8.0/C-Sharp-Shooter.dll
+/Users/admin/Projects/C-Sharp-Shooter/bin/Debug/net8.0/C-Sharp-Shooter.pdb
+/Users/admin/Projects/C-Sharp-Shooter/obj/Debug/net8.0/C-Sharp-Shooter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/C-Sharp-Shooter/obj/Debug/net8.0/C-Sharp-Shooter.AssemblyInfoInputs.cache
+/Users/admin/Projects/C-Sharp-Shooter/obj/Debug/net8.0/C-Sharp-Shooter.AssemblyInfo.cs
+/Users/admin/Projects/C-Sharp-Shooter/obj/Debug/net8.0/C-Sharp-Shooter.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/C-Sharp-Shooter/obj/Debug/net8.0/C-Sharp-Shooter.dll
+/Users/admin/Projects/C-Sharp-Shooter/obj/Debug/net8.0/refint/C-Sharp-Shooter.dll
+/Users/admin/Projects/C-Sharp-Shooter/obj/Debug/net8.0/C-Sharp-Shooter.pdb
+/Users/admin/Projects/C-Sharp-Shooter/obj/Debug/net8.0/C-Sharp-Shooter.genruntimeconfig.cache
+/Users/admin/Projects/C-Sharp-Shooter/obj/Debug/net8.0/ref/C-Sharp-Shooter.dll
